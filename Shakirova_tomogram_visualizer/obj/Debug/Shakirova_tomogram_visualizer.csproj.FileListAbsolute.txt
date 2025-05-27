@@ -1,0 +1,17 @@
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\bin\Debug\Shakirova_tomogram_visualizer.exe.config
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\bin\Debug\Shakirova_tomogram_visualizer.exe
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\bin\Debug\Shakirova_tomogram_visualizer.pdb
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\bin\Debug\OpenTK.dll
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\bin\Debug\opentk.glcontrol.dll
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\bin\Debug\OpenTK.pdb
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\bin\Debug\OpenTK.xml
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\obj\Debug\Shakirova_tomogram_visualizer.csproj.AssemblyReference.cache
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\obj\Debug\Shakirova_tomogram_visualizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\obj\Debug\Shakirova_tomogram_visualizer.exe.config
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\obj\Debug\Shakirova_tomogram_visualizer.Form1.resources
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\obj\Debug\Shakirova_tomogram_visualizer.Properties.Resources.resources
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\obj\Debug\Shakirova_tomogram_visualizer.csproj.GenerateResource.cache
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\obj\Debug\Shakirova_tomogram_visualizer.csproj.CoreCompileInputs.cache
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\obj\Debug\Shakirov.676BEE52.Up2Date
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\obj\Debug\Shakirova_tomogram_visualizer.exe
+C:\Users\Eseniya\source\repos\Shakirova_tomogram_visualizer\Shakirova_tomogram_visualizer\obj\Debug\Shakirova_tomogram_visualizer.pdb
